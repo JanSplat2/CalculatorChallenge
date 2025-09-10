@@ -335,3 +335,4 @@ struct CalculatorWorkingAttempt: View {
     CalculatorWorkingAttempt()
 }
 
+//Gemini did all of this xD
